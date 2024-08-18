@@ -1,6 +1,6 @@
 # TurkeyWeather
 
-[Demo](https://turkeyweather.netlify.app/)
+[Demo link](https://turkeyweather.netlify.app/)
 
 ## Features
 
