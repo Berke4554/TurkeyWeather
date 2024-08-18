@@ -1,0 +1,54 @@
+
+#navbar{
+    background-color:  #101014;
+    
+}
+#locationInfo{
+    padding: 10px;
+    align-items: center;
+    border: 1px solid #dde5eb56;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(230, 223, 223, 0.36);
+    cursor: not-allowed;
+
+}
+
+#locationInfo:hover{
+    box-shadow: 0px 0px 15px rgba(233, 232, 232, 0.5);
+
+}
+
+#searchForm{
+    width: 100%;
+}
+
+#searchInput{
+    border-radius:5px ;
+    box-shadow: 0px 0px 15px rgba(230, 223, 223, 0.36);
+
+}
+
+#searchInput:hover{
+    box-shadow: 0px 0px 15px rgba(233, 232, 232, 0.5);
+}
+
+#searchButton{
+    border-radius: 5px;
+    /* border: 1px solid #ADCADE; */
+    background-color: #1E1E1E;
+    box-shadow: 0px 0px 10px rgba(230, 223, 223, 0.36);
+}
+#searchButton:hover{
+    background-color:#696969 ;
+    box-shadow: 0px 0px 15px rgba(233, 232, 232, 0.5);
+}
+
+#profileAvatar>span>img{
+    width: 60px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 15px rgba(230, 223, 223, 0.36);
+    cursor: pointer;
+}
+#profileAvatar>span>img:hover {
+    box-shadow: 0px 0px 15px rgba(233, 232, 232, 0.5); /* Burada istediğin renk değişimini yapabilirsin */
+}
